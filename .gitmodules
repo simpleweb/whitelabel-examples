@@ -1,0 +1,6 @@
+[submodule "whitelabel-starter"]
+	path = whitelabel-starter
+	url = https://github.com/simpleweb/whitelabel-starter
+[submodule "yourtube-starter"]
+	path = yourtube-starter
+	url = https://github.com/simpleweb/yourtube-starter
