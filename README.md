@@ -6,4 +6,4 @@ A Basic node app for our onboarding [tutorial](https://simpleweb.gitbook.io/whit
 
 ### [yourTube](https://github.com/simpleweb/yourtube-starter)
 
-A basic decentralised video platform build on top of the the whitelabel protocol.
+A basic decentralised video platform build on top of the whitelabel protocol.
